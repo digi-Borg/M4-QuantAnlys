@@ -1,5 +1,8 @@
 # FinTech Quantitaive Analysis Using Pandas
 
+
+![M4QuantAnalysisTitle](./Images/M4QuantAnalys-2022-10-07004533.png) 
+
 *Welcome to my FinTech project as a 'Quantitative Analyst for Retirement Portfolios'*
 
 ---
