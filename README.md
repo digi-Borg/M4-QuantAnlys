@@ -47,7 +47,7 @@ The program is developed in Jupyter notebooks on a **.ipny** file.  The pandas i
 
 
 
-Finally the **risk_return_analysis.ipny** program as several steps to analyze: performance, volatility, risk, risk-return profile, and portfolio diversification. Through these steps a determination is made for a portfolio recommendation from the four "Whale" fund porfolio managers.  
+Finally the [`risk_return_analysis.ipny`](./risk_return_analysis.ipynb) program as several steps to analyze: performance, volatility, risk, risk-return profile, and portfolio diversification. Through these steps a determination is made for a portfolio recommendation from the four "Whale" fund porfolio managers.  
 
 ```python
 risk_return_analysis.ipny
